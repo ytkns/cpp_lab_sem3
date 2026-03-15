@@ -1,0 +1,17 @@
+/** Wynik dzialania programu:
+
+=== 1 ===============================
+0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+46457600000
+
+=== 2 ===============================
+Klub Sportowy CRACOVIA
+KS CRACOVIA Spolka Akcyjna
+KS CRACOVIA SA
+KS CRACOVIA SA
+KS CRACOVIA SA
+KS CRACOVIA SA
+0, 0, 0
+*/
